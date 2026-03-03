@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
  Fariya Zehrin | Aspiring Design Engineer<br>
 
 Designing interfaces, then building them in code.<br>
@@ -13,9 +13,10 @@ Building in public. Learning by doing.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/far_notaway) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fariya-zk) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=black)
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Fariya-Zehrin&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fariya-Zehrin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariya-Zehrin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
