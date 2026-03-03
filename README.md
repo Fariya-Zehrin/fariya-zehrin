@@ -4,7 +4,6 @@
 Designing interfaces, then building them in code.<br>
 
 🚛 **Current:** From Figma to Fleet (mining dashboard series)<br>
-🛠️ **Tech:** React, JavaScript, Figma, Design Systems<br>
 📍 **Location:** Perth, Western Australia<br>
 🎓 **Student:** UWA Computer Science<br>
 
