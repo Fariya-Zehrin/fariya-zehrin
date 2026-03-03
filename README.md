@@ -1,17 +1,17 @@
 # 💫 About Me:
- Fariya Zehrin | Aspiring Design Engineer
+ Fariya Zehrin | Aspiring Design Engineer<br>
 
-Designing interfaces, then building them in code.
+Designing interfaces, then building them in code.<br>
 
-🚛 **Current:** From Figma to Fleet (mining dashboard series)
-🛠️ **Tech:** React, JavaScript, Figma, Design Systems
-📍 **Location:** Perth, Western Australia
-🎓 **Student:** UWA Computer Science
+🚛 **Current:** From Figma to Fleet (mining dashboard series)<br>
+🛠️ **Tech:** React, JavaScript, Figma, Design Systems<br>
+📍 **Location:** Perth, Western Australia<br>
+🎓 **Student:** UWA Computer Science<br>
 
 Building in public. Learning by doing.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/far_notaway]) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fariya-zk) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/far_notaway) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fariya-zk) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
