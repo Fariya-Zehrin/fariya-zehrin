@@ -5,7 +5,7 @@ Designing interfaces, then building them in code.<br>
 
 🚛 **Current:** From Figma to Fleet (mining dashboard series)<br>
 📍 **Location:** Perth, Western Australia<br>
-🎓 **Student:** UWA Computer Science<br>
+🎓 **Student:** UWA Computer Science <br>
 
 Building in public. Learning by doing.
 
